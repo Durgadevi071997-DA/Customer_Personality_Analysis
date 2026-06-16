@@ -104,6 +104,3 @@ Prepared a clean dataset suitable for analysis and visualization.
 ## Conclusion
 
 The Customer Personality Analysis dataset was successfully cleaned, transformed, and analyzed. Feature engineering and exploratory data analysis provided valuable insights into customer demographics, spending behavior, and campaign effectiveness. The findings can help businesses make data-driven decisions, improve customer targeting, and optimize future marketing campaigns.
-## Conclusion
-
-The Customer Personality Analysis dataset was successfully cleaned, transformed, and analyzed. Feature engineering and exploratory data analysis provided valuable insights into customer demographics, spending behavior, and campaign effectiveness. The findings can help businesses make data-driven decisions, improve customer targeting, and optimize future marketing campaigns.
